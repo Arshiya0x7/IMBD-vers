@@ -1,0 +1,7 @@
+{
+  "name": "MovieIMDB",
+  "version": "3.9.8",
+  "description": "Best IDMB Movie SIte",
+  "private": true,
+  "license": "MIT"
+}
